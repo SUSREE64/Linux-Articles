@@ -172,4 +172,5 @@ If you’re setting up a new Linux desktop with Mediatek WiFi, check your firmwa
 ---
 
 ✍️ **Authored by Temuzin**  
-*(You may share or cite this article with credit.)*
+Credits : https://github.com/morrownr
+
